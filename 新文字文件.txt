@@ -1,0 +1,2 @@
+
+System.out.println("¶—§G¶n¡‡"+dick.lenght);
