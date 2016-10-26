@@ -1,2 +1,2 @@
 
-System.out.println("老二好醜"+dick.lenght);
+System.out.println("老二好+dick.lenght);
